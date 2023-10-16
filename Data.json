@@ -1,6 +1,6 @@
 [
     {
-        "code": "FC",
+        "code": "FCT",
         "name": "Abuja",
         "capital": "",
         "lat": "8.831122799397733",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "code": "AB",
+        "code": "ABI",
         "name": "Abia",
         "capital": "Umuahia",
         "lat": "5.45409529947607",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "code": "AD",
+        "code": "ADM",
         "name": "Adamawa",
         "capital": "Yola",
         "lat": "9.512977199417053",
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "code": "AK",
+        "code": "AKW",
         "name": "AkwaIbom",
         "capital": "Uyo",
         "lat": "4.940863799511036",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "code": "AN",
+        "code": "ANA",
         "name": "Anambra",
         "capital": "Awka",
         "lat": "6.2183135994341985",
@@ -143,7 +143,7 @@
         ]
     },
     {
-        "code": "BA",
+        "code": "BAC",
         "name": "Bauchi",
         "capital": "Bauchi",
         "lat": "10.622828399473097",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "code": "BY",
+        "code": "BAY",
         "name": "Bayelsa",
         "capital": "Yenagoa",
         "lat": "4.762978599524332",
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "code": "BE",
+        "code": "BEN",
         "name": "Benue",
         "capital": "Makurdi",
         "lat": "7.35057469939717",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "code": "BO",
+        "code": "BOR",
         "name": "Borno",
         "capital": "Maiduguri",
         "lat": "12.18753919959776",
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "code": "CR",
+        "code": "CRR",
         "name": "CrossRiver",
         "capital": "Calabar",
         "lat": "5.867196599451846",
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "code": "DE",
+        "code": "DEL",
         "name": "Delta",
         "capital": "Asaba",
         "lat": "5.527306099471514",
@@ -318,7 +318,7 @@
         ]
     },
     {
-        "code": "EB",
+        "code": "EBY",
         "name": "Ebonyi",
         "capital": "Abakaliki",
         "lat": "6.199691799435065",
@@ -339,7 +339,7 @@
         ]
     },
     {
-        "code": "ED",
+        "code": "EDO",
         "name": "Edo",
         "capital": "Benin City",
         "lat": "6.607657499417959",
@@ -366,7 +366,7 @@
         ]
     },
     {
-        "code": "EK",
+        "code": "EKI",
         "name": "Ekiti",
         "capital": "Ado-Ekiti",
         "lat": "7.736890999391845",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "code": "EN",
+        "code": "ENG",
         "name": "Enugu",
         "capital": "Enugu",
         "lat": "6.553609399419997",
@@ -417,7 +417,7 @@
         ]
     },
     {
-        "code": "GO",
+        "code": "GOM",
         "name": "Gombe",
         "capital": "Gombe",
         "lat": "10.383009999458512",
@@ -437,7 +437,7 @@
         ]
     },
     {
-        "code": "IM",
+        "code": "IMO",
         "name": "Imo",
         "capital": "Owerri",
         "lat": "5.585945599467946",
@@ -473,7 +473,7 @@
         ]
     },
     {
-        "code": "JI",
+        "code": "JIG",
         "name": "Jigawa",
         "capital": "Dutse",
         "lat": "12.325236199610885",
@@ -508,7 +508,7 @@
         ]
     },
     {
-        "code": "KD",
+        "code": "KAD",
         "name": "Kaduna",
         "capital": "Kaduna",
         "lat": "10.382531799458487",
@@ -540,7 +540,7 @@
         ]
     },
     {
-        "code": "KN",
+        "code": "KAN",
         "name": "Kano",
         "capital": "Kano",
         "lat": "11.894838899570903",
@@ -593,7 +593,7 @@
         ]
     },
     {
-        "code": "KT",
+        "code": "KAT",
         "name": "Katsina",
         "capital": "Kastina",
         "lat": "12.563082499634245",
@@ -636,7 +636,7 @@
         ]
     },
     {
-        "code": "KE",
+        "code": "KEB",
         "name": "Kebbi",
         "capital": "Birnin-Kebbi",
         "lat": "11.416757399530335",
@@ -666,7 +666,7 @@
         ]
     },
     {
-        "code": "KO",
+        "code": "KOG",
         "name": "Kogi",
         "capital": "Lokoja",
         "lat": "7.79496019939138",
@@ -696,7 +696,7 @@
         ]
     },
     {
-        "code": "KW",
+        "code": "KWA",
         "name": "Kwara",
         "capital": "Ilorin",
         "lat": "8.836789099397848",
@@ -719,7 +719,7 @@
         ]
     },
     {
-        "code": "LA",
+        "code": "LAG",
         "name": "Lagos",
         "capital": "Ikeja",
         "lat": "6.526903299421034",
@@ -749,7 +749,7 @@
         ]
     },
     {
-        "code": "NA",
+        "code": "NAS",
         "name": "Nassarawa",
         "capital": "Lafia",
         "lat": "8.438786799392046",
@@ -771,7 +771,7 @@
         ]
     },
     {
-        "code": "NI",
+        "code": "NIG",
         "name": "Niger",
         "capital": "Minna",
         "lat": "9.932608299434758",
@@ -805,7 +805,7 @@
         ]
     },
     {
-        "code": "OG",
+        "code": "OGN",
         "name": "Ogun",
         "capital": "Abeokuta",
         "lat": "6.978858199405861",
@@ -833,7 +833,7 @@
         ]
     },
     {
-        "code": "ON",
+        "code": "OND",
         "name": "Ondo",
         "capital": "Akure",
         "lat": "7.0209685994047035",
@@ -860,7 +860,7 @@
         ]
     },
     {
-        "code": "OS",
+        "code": "OSN",
         "name": "Osun",
         "capital": "Osogbo",
         "lat": "7.548404699393967",
@@ -898,7 +898,7 @@
         ]
     },
     {
-        "code": "OY",
+        "code": "OYO",
         "name": "Oyo",
         "capital": "Ibadan",
         "lat": "8.215124899390593",
@@ -941,7 +941,7 @@
         ]
     },
     {
-        "code": "PL",
+        "code": "PLT",
         "name": "Plateau",
         "capital": "Jos",
         "lat": "9.058344599402849",
@@ -967,7 +967,7 @@
         ]
     },
     {
-        "code": "RI",
+        "code": "RIV",
         "name": "Rivers",
         "capital": "Port-Harcourt",
         "lat": "4.841602799518385",
@@ -1000,7 +1000,7 @@
         ]
     },
     {
-        "code": "SO",
+        "code": "SOK",
         "name": "Sokoto",
         "capital": "Sokoto",
         "lat": "13.061119499685718",
@@ -1031,7 +1031,7 @@
         ]
     },
     {
-        "code": "TA",
+        "code": "TAR",
         "name": "Taraba",
         "capital": "Jalingo",
         "lat": "8.0141333993904",
@@ -1056,7 +1056,7 @@
         ]
     },
     {
-        "code": "YO",
+        "code": "YOB",
         "name": "Yobe",
         "capital": "Damaturu",
         "lat": "12.123324199591742",
@@ -1082,7 +1082,7 @@
         ]
     },
     {
-        "code": "ZA",
+        "code": "ZAM",
         "name": "Zamfara",
         "capital": "Gusau",
         "lat": "12.007899799581104",
